@@ -1,5 +1,7 @@
 ## SmartWage
 
+## [DEMO HERE](https://smartwage.pages.dev)
+
 The backend/API is built with NodeJs and MongoDB and is available in the /api directory
 
 ### Backend/API Deployment
